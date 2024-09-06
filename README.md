@@ -4,7 +4,7 @@
 The goal of this project is to identify key risk factors for diabetes, such as BMI, physical activity, age, income, and smoking status. By understanding these factors, we can provide insights into early intervention and risk management for individuals at risk of diabetes.
 
 ## Dataset
-The dataset used in this project is sourced from Kaggle and includes anonymized health data from individuals, including information on their BMI, smoking habits, physical activity, and diabetes status. [Link to Dataset](#)
+The dataset used in this project is sourced from Kaggle and includes anonymized health data from individuals, including information on their BMI, smoking habits, physical activity, and diabetes status. https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset/code
 
 ## Data Cleaning
 The dataset was first examined for missing values in critical columns, including:
