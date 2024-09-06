@@ -36,6 +36,4 @@ No missing values were found, and all columns were deemed fit for analysis witho
 ## Conclusion
 The analysis suggests that interventions focusing on weight management, promoting physical activity, and reducing smoking rates could be effective strategies for preventing diabetes and managing populations at risk. These insights can aid healthcare providers in targeting high-risk groups for early intervention.
 
-## Future Steps
-- Further analysis could explore how these factors interact with one another and if there are compounding effects.
-- Visualizations could be added to enhance the understanding of the data trends.
+
